@@ -13,7 +13,7 @@
  * __Scrum Team:__ Wesley Almeida [LinkedIn](https://www.linkedin.com/in/wesley-costa-5180aa1b8/)
  * __Scrum Team:__ William Arantes [LinkedIn]()
 
-# Entrega 1 - Sprint 0
+### Entrega 1 - Sprint 0
 
  * Protótipos da interface do site
     * [Vizualização como usuário](https://www.figma.com/proto/Mr6AC6NfZzZOdZQy1hs5eZ/Layouts-site-User?node-id=2%3A2&viewport=250%2C207%2C0.08702971041202545&scaling=min-zoom)
