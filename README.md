@@ -75,5 +75,20 @@ Nessa entrega nossa equipe alinhou as necessidades com o cliente para o projeto 
  * Conteúdos de Português
 
  Também adicionamos alguns conteúdos em videos para que possam experienciar como será nosso conteúdo.
+ 
  ([Link da pasta dos conteúdos](https://github.com/Lkduarte/EGY-Conteudos-Didaticos/tree/master/SPRINT%201/Conte%C3%BAdo%20Video))
+
+## Plano de Negócios
+
+O Plano de Negócio descreve os objetivos do nosso negócio e quais os passos que devem ser dados para que esses objetivos sejam alcançados, diminuindo os riscos e as incertezas para o empreendedor, empresa ou investidores.
+
+![Plano de negócios](https://user-images.githubusercontent.com/71477357/96354814-42befa00-10b1-11eb-8346-87c364e79cab.jpeg)
+
+## Investimento
+
+Todos sabemos que nenhuma empresa existe sem custos, portanto, ilustramos os custos do projeto e os motivos aos quais nos tornam a melhor empresa no segmento para executar esse projeto.
+
+Aqui está um documento constando o Investimento e nossa projeção de Lucro do projeto
+
+
 
