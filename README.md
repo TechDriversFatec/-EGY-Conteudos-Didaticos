@@ -1,4 +1,4 @@
-![Topo Readme](Topo GitHub.jpeg)
+![Topo GitHub](https://user-images.githubusercontent.com/71477357/96354631-0f7b6b80-10af-11eb-9acc-50460944b076.jpg)
 
 # EGY Conteúdos Didáticos
  Projeto Integrador de Análise e Desenvolvimento de Sistemas - 1ºADS 202002
