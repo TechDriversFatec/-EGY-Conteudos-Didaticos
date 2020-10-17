@@ -92,4 +92,8 @@ Aqui está um documento constando o Investimento e nossa projeção de Lucro do 
 
 ([Planejamento Financeiro](https://github.com/Lkduarte/EGY-Conteudos-Didaticos/blob/master/SPRINT%201/Planejamento%20financeiro%20Egy%20Conte%C3%BAdos%20Did%C3%A1ticos.pdf))
 
+![Investimento Egy](https://user-images.githubusercontent.com/71477357/96354817-4c486200-10b1-11eb-864d-83b09288b8ba.jpeg)
+
+
+
 
