@@ -90,5 +90,6 @@ Todos sabemos que nenhuma empresa existe sem custos, portanto, ilustramos os cus
 
 Aqui está um documento constando o Investimento e nossa projeção de Lucro do projeto
 
+([Planejamento Financeiro](https://github.com/Lkduarte/EGY-Conteudos-Didaticos/blob/master/SPRINT%201/Planejamento%20financeiro%20Egy%20Conte%C3%BAdos%20Did%C3%A1ticos.pdf))
 
 
