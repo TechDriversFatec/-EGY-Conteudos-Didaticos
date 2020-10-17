@@ -45,7 +45,12 @@ Dentre os conteúdos, deverão conter:
 
 ## As Sprints
 
+Abaixo temos uma imagem ilustrando como serão feitas as nossas entregas:
+![Sprint Card](https://user-images.githubusercontent.com/71477357/96354740-4900a680-10b0-11eb-97d2-b3a630d28dd1.jpeg)
+
 Entrega 1 - Sprint 0 (07/09/2020 a 27/09/2020) ([Link da pasta](https://github.com/Lkduarte/EGY-Conteudos-Didaticos/tree/master/SPRINT%200))
+
+![Processo do Protótipo](https://user-images.githubusercontent.com/71477357/96354654-5cf7d880-10af-11eb-9ba7-9097c12ddb0f.jpeg)
 
 Nessa entrega nossa equipe desenvolvel um protótipo de como será a plataforma, de maneira que fique melhor a visualização do projeto para nosso cliente, e definimos as ferramentas necessárias para implementação desse projeto.
 
@@ -61,9 +66,14 @@ Entrega 2 - Sprint 1 (28/09/2020 a 17/10/2020) (Em andamento)
 
 Nessa entrega nossa equipe alinhou as necessidades com o cliente para o projeto e desenvolveu o material que será disponibilizado no _website_ no formato texto, com o intuito de que nosso cliente possa vizualizar o que esperar da plataforma.
 
- * Em desenvolvimento
- * Em desenvolvimento
- * Em desenvolvimento
- * Em desenvolvimento
- * Em desenvolvimento
- * Em desenvolvimento
+([Link da pasta dos conteúdos](https://github.com/Lkduarte/EGY-Conteudos-Didaticos/tree/master/SPRINT%201/Conte%C3%BAdo%20Texto))
+ * Conteúdos de Laboratório de Hardware
+ * Conteúdos de Arquitetura e Organização de Computadores
+ * Conteúdos de inglês
+ * Conteúdos de Lógica de programação
+ * Conteúdos de Matemática Discreta
+ * Conteúdos de Português
+
+ Também adicionamos alguns conteúdos em videos para que possam experienciar como será nosso conteúdo.
+ ([Link da pasta dos conteúdos](https://github.com/Lkduarte/EGY-Conteudos-Didaticos/tree/master/SPRINT%201/Conte%C3%BAdo%20Video))
+
