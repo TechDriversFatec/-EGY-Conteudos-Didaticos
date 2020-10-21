@@ -9,7 +9,7 @@
 
 ## Sobre o projeto
 
-Desenvolvimento de uma plataforma de vendas de conteúdos didáticos de aula, no formato _webisite_ para todos os tipos de estudantes, com o intuito de ser de facil acesso e vizualização, de maneira que o usuário possa adquirir um conteúdo, sendo ele com textos, videos ou jogos, e ele será disponibilizado na plataforma progressivamente, para _download_ e utilização do usuário.
+Desenvolvimento de uma plataforma de vendas de conteúdos didáticos de aula, no formato _website_ para todos os tipos de estudantes, com o intuito de ser de fácil acesso e visualização, de maneira que o usuário possa adquirir um conteúdo, sendo ele com textos, vídeos ou jogos, e ele será disponibilizado na plataforma progressivamente, para _download_ e utilização do usuário.
 
 Os Requisitos são:
 
@@ -52,11 +52,11 @@ Entrega 1 - Sprint 0 (07/09/2020 a 27/09/2020) ([Link da pasta](https://github.c
 
 ![Processo do Protótipo](https://user-images.githubusercontent.com/71477357/96354654-5cf7d880-10af-11eb-9ba7-9097c12ddb0f.jpeg)
 
-Nessa entrega nossa equipe desenvolvel um protótipo de como será a plataforma, de maneira que fique melhor a visualização do projeto para nosso cliente, e definimos as ferramentas necessárias para implementação desse projeto.
+Nessa entrega nossa equipe desenvolveu um protótipo de como será a plataforma, de maneira que fique melhor a visualização do projeto para nosso cliente, e definimos as ferramentas necessárias para implementação desse projeto.
 
  * Protótipos da interface do site
-    * [Vizualização como usuário](https://www.figma.com/proto/Mr6AC6NfZzZOdZQy1hs5eZ/Layouts-site-User?node-id=2%3A2&viewport=250%2C207%2C0.08702971041202545&scaling=min-zoom)
-    * [Vizualização como Administrador](https://www.figma.com/proto/gISuDpX5GsgKIlZ7cD9izU/Layouts-Site-ADM?node-id=1%3A463&viewport=493%2C496%2C0.10961420089006424&scaling=min-zoom)
+    * [Visualização como usuário](https://www.figma.com/proto/Mr6AC6NfZzZOdZQy1hs5eZ/Layouts-site-User?node-id=2%3A2&viewport=250%2C207%2C0.08702971041202545&scaling=min-zoom)
+    * [Visualização como Administrador](https://www.figma.com/proto/gISuDpX5GsgKIlZ7cD9izU/Layouts-Site-ADM?node-id=1%3A463&viewport=493%2C496%2C0.10961420089006424&scaling=min-zoom)
  * [Fluxograma do site](https://github.com/Lkduarte/EGY-Conteudos-Didaticos/blob/master/SPRINT%200/Fluxograma.jpg)
  * [Plano de desenvolvimento de projeto](https://github.com/Lkduarte/EGY-Conteudos-Didaticos/blob/master/SPRINT%200/PlanoDeDesenvolvimentoProjeto.pdf)
  * Técnicas e ferramentas aplicáveis
@@ -64,7 +64,7 @@ Nessa entrega nossa equipe desenvolvel um protótipo de como será a plataforma,
 
 Entrega 2 - Sprint 1 (28/09/2020 a 17/10/2020) (Em andamento)
 
-Nessa entrega nossa equipe alinhou as necessidades com o cliente para o projeto e desenvolveu o material que será disponibilizado no _website_ no formato texto, com o intuito de que nosso cliente possa vizualizar o que esperar da plataforma.
+Nessa entrega nossa equipe alinhou as necessidades com o cliente para o projeto e desenvolveu o material que será disponibilizado no _website_ no formato texto, com o intuito de que nosso cliente possa visualizar o que esperar da plataforma.
 
 ([Link da pasta dos conteúdos](https://github.com/Lkduarte/EGY-Conteudos-Didaticos/tree/master/SPRINT%201/Conte%C3%BAdo%20Texto))
  * Conteúdos de Laboratório de Hardware
@@ -74,7 +74,7 @@ Nessa entrega nossa equipe alinhou as necessidades com o cliente para o projeto 
  * Conteúdos de Matemática Discreta
  * Conteúdos de Português
 
- Também adicionamos alguns conteúdos em videos para que possam experienciar como será nosso conteúdo.
+ Também adicionamos alguns conteúdos em vídeos para que possam experienciar como será nosso conteúdo.
  
  ([Link da pasta dos conteúdos](https://github.com/Lkduarte/EGY-Conteudos-Didaticos/tree/master/SPRINT%201/Conte%C3%BAdo%20Video))
 
