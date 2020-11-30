@@ -17,3 +17,5 @@ Faça seu cadastro e teste nossas funcionalidades!
 Utilize nosso cupom TESTE200 para um desconto de R$200,00 para que você possa testar nossa loja.
 
 Após a compra, vá para a aba Downloads e faça o Download do arquivo .PDF.
+
+![20201129_234502](https://user-images.githubusercontent.com/71477357/100563461-2fe93900-329d-11eb-8a8c-f6e9801d6251.gif)
