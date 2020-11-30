@@ -31,11 +31,22 @@ Dentre os conteúdos, deverão conter:
 
 ## Equipe
 
- * __Scrum Master:__ Lucas Nascimento ([Linkedin](https://www.linkedin.com/in/lucas-nunes-nascimento/))
- * __Dev Team:__ Ana Christina ([LinkedIn](https://www.linkedin.com/in/ana-christina-f-dias-da-silva-900296179/))
- * __Dev Team:__ Valquíria Matos ([linkedIn](https://www.linkedin.com/in/valqu%C3%ADria-matos-402a821b7/))
- * __Dev Team:__ Wesley Almeida ([LinkedIn](https://www.linkedin.com/in/wesley-costa-5180aa1b8/))
- * __Dev Team:__ William Arantes ([LinkedIn](https://www.linkedin.com/in/william-arantes-08a5101b8/))
+|Nome|Função|Linkedin|GitHub|Avatar|
+| -------- |-------- |-------- |-------- |-------- |
+|**Beatriz Nonato**|Scrum Master|[@LinkedIn](https://www.linkedin.com/in/beatriz-nonato-aa11017a/)|[@GitHub](https://github.com/BeaNonato)|<img src = "/Imagens Geral/Beatriz.png" width="50" height="50"/>|
+|**Nayara Lopes**|Desenvolvedor 1| [@LinkedIn](https://www.linkedin.com/in/nayara-suelen-382420137/)|[@GitHub](https://github.com/NayDev)|<img src = "/Imagens Geral/Nayara.png" width="50" height="50"/>|
+|**Raphael Lisboa**|Desenvolvedor 2| [@LinkedIn](https://www.linkedin.com/in/raphael-lisboa-7b3597187/)|[@GitHub](https://github.com/raphaelprado)|<img src = "/Imagens Geral/Raphael.png" width="50" height="50" />|
+|**Bryan Ribeiro**|Desenvolvedor 3|[@LinkedIn](https://www.linkedin.com/in/bryanrribeiro/)|[@GitHub](https://github.com/BryanRibeiro)|<img src = "/Imagens Geral/Bryan.png" width="50" height="50" />|
+|**Jeferson Henrique**|Desenvolvedor 4|[@LinkedIn](https://www.linkedin.com/in/jeferson-silva-249884149/)|[@GitHub](https://github.com/JefersonHenrique)|<img src = "/Imagens Geral/Jeferson.png" width="50" height="50" />|
+|**Jefferson Reis**|Desenvolvedor 5|[@LinkedIn](https://www.linkedin.com/in/jefferson-silva-94b94218)|[@GitHub](https://github.com/jeffersonrrs)|<img src = "/Imagens Geral/jefferson.png" width="50" height="50" />|
+
+| Função             | Nome               | LinkedIn         | GitHub           |
+|--------------------|--------------------|------------------|------------------|
+| __Scrum Master:__ | Lucas Nascimento | ([Linkedin](https://www.linkedin.com/in/lucas-nunes-nascimento/)) | ([GitHub])(https://github.com/Lkduarte) |
+| __Dev Team:__ | Ana Christina | ([LinkedIn](https://www.linkedin.com/in/ana-christina-f-dias-da-silva-900296179/)) | ([GitHub])(https://github.com/AnaChristina) |
+| __Dev Team:__ | Valquíria Matos | ([linkedIn](https://www.linkedin.com/in/valqu%C3%ADria-matos-402a821b7/)) | ([GitHub])(https://github.com/valmatos) |
+| __Dev Team:__ | Wesley Almeida | ([LinkedIn](https://www.linkedin.com/in/wesley-costa-5180aa1b8/)) | ([GitHub])(https://github.com/Wesleyx07) |
+| __Dev Team:__ | William Arantes | ([LinkedIn](https://www.linkedin.com/in/william-arantes-08a5101b8/)) | ([GitHub])(https://github.com/William-Arantes) |
 
 ## Tecnologias Utilizadas
 
