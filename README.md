@@ -52,9 +52,9 @@ Abaixo temos uma imagem ilustrando como serão feitas as nossas entregas:
 
 - [x] Entrega 2 - Sprint 1 (28/09/2020 a 17/10/2020) ([Link da pasta](https://github.com/Lkduarte/EGY-Conteudos-Didaticos/tree/master/SPRINT%201))
 
-- [x] Entrega 3 - Sprint 2 (19/10/2020 a 08/11/2020) ([Link da pasta]())
+- [x] Entrega 3 - Sprint 2 (19/10/2020 a 08/11/2020) ([Link da pasta](https://github.com/Lkduarte/EGY-Conteudos-Didaticos/tree/master/SPRINT%202))
 
-- [x] Entrega 4 - Sprint 3 (09/11/2020 a 29/11/2020) ([Link da pasta]())
+- [x] Entrega 4 - Sprint 3 (09/11/2020 a 29/11/2020) ([Link da pasta](https://github.com/Lkduarte/EGY-Conteudos-Didaticos/tree/master/SPRINT%203))
 
 ## Plano de Negócios
 
