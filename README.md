@@ -75,8 +75,6 @@ Aqui está um documento constando o Investimento e nossa projeção de Lucro do 
 
 ![Investimento Egy](https://user-images.githubusercontent.com/71477357/96354817-4c486200-10b1-11eb-864d-83b09288b8ba.jpeg)
 
-![Tristeza](https://user-images.githubusercontent.com/71477357/100567089-768f6100-32a6-11eb-96d3-c6bb6d3e6051.jpg)
-
 
 
 
