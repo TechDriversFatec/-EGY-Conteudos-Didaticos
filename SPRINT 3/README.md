@@ -5,6 +5,9 @@
 Nessa sprint nós finalizamos o site, utilizando o sitema de gestão de conteúdo WordPress.
 Tivemos diversos problemas durante o desenvolvimento do projeto, mas conseguimos finaliza-lo de forma que fiquei bonito e funcional.
 
+Os arquivos do projeto são grandes demais para serem alocados diretamente no GitHub, por isso, todos estão no Dropbox abaixo.
+Link para acesso aos arquivos do site pelo [Dropbox](https://www.dropbox.com/sh/w9d3wkopntol92x/AAC7hw3mqih1fhkiirPbPQBZa?dl=0)
+
 Estamos utilizando uma hospedagem gratuita para que se possa ter uma melhor vizualização do site.
 
 Você pode vizualizar o funcionamento do site pelo link:
