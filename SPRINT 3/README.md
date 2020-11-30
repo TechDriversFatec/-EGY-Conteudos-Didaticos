@@ -2,8 +2,8 @@
 
 ## Entrega 4 - Sprint 3 (09/11/2020 a 29/11/2020) 
 
-Nessa sprint nós finalizamos o site.
-Tivemos diversos problemas durante o desenvolvimento do projeto, mas conseguimos finaliza-lo totalmente funcional.
+Nessa sprint nós finalizamos o site, utilizando o sitema de gestão de conteúdo WordPress.
+Tivemos diversos problemas durante o desenvolvimento do projeto, mas conseguimos finaliza-lo de forma que fiquei bonito e funcional.
 
 Estamos utilizando uma hospedagem gratuita para que se possa ter uma melhor vizualização do site.
 
@@ -14,4 +14,6 @@ Faça seu cadastro e teste nossas funcionalidades!
 
 ![20201129_212813](https://user-images.githubusercontent.com/71477357/100562662-1cd56980-329b-11eb-9261-69eed0d891cb.gif)
 
-Utilize nosso cupom TESTE200 para um desconto de R$200,00 na compra para que você possa testar nossa loja.
+Utilize nosso cupom TESTE200 para um desconto de R$200,00 para que você possa testar nossa loja.
+
+Após a compra, vá para a aba Downloads e faça o Download do arquivo .PDF.
