@@ -45,6 +45,8 @@ Dentre os conteúdos, deverão conter:
 * Banco de dados: MariaDB
 * Back-End: JavaScript e PHP
 * Front-End: HTML e CSS
+* LaTeX
+* Adobe Illustrator
 
 ## As Sprints
 
