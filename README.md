@@ -33,11 +33,11 @@ Dentre os conteúdos, deverão conter:
 
 | Função             | Nome               | LinkedIn         | GitHub           |
 |--------------------|--------------------|------------------|------------------|
-| __Scrum Master__ | Lucas Nascimento | [Linkedin](https://www.linkedin.com/in/lucas-nunes-nascimento/)) | ([GitHub])(https://github.com/Lkduarte) |
-| __Dev Team__ | Ana Christina | [LinkedIn](https://www.linkedin.com/in/ana-christina-f-dias-da-silva-900296179/)) | ([GitHub])(https://github.com/AnaChristina) |
-| __Dev Team__ | Valquíria Matos | [linkedIn](https://www.linkedin.com/in/valqu%C3%ADria-matos-402a821b7/)) | ([GitHub])(https://github.com/valmatos) |
-| __Dev Team__ | Wesley Almeida | [LinkedIn](https://www.linkedin.com/in/wesley-costa-5180aa1b8/)) | ([GitHub])(https://github.com/Wesleyx07) |
-| __Dev Team__ | William Arantes | [LinkedIn](https://www.linkedin.com/in/william-arantes-08a5101b8/)) | ([GitHub])(https://github.com/William-Arantes) |
+| __Scrum Master__ | Lucas Nascimento | [Linkedin](https://www.linkedin.com/in/lucas-nunes-nascimento/) | [GitHub](https://github.com/Lkduarte) |
+| __Dev Team__ | Ana Christina | [LinkedIn](https://www.linkedin.com/in/ana-christina-f-dias-da-silva-900296179/) | [GitHub](https://github.com/AnaChristina) |
+| __Dev Team__ | Valquíria Matos | [LinkedIn](https://www.linkedin.com/in/valqu%C3%ADria-matos-402a821b7/) | [GitHub](https://github.com/valmatos) |
+| __Dev Team__ | Wesley Almeida | [LinkedIn](https://www.linkedin.com/in/wesley-costa-5180aa1b8/) | [GitHub](https://github.com/Wesleyx07) |
+| __Dev Team__ | William Arantes | [LinkedIn](https://www.linkedin.com/in/william-arantes-08a5101b8/) | [GitHub](https://github.com/William-Arantes) |
 
 ## Tecnologias Utilizadas
 
