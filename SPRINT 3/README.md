@@ -12,4 +12,6 @@ Você pode vizualizar o funcionamento do site pelo link:
 
 Faça seu cadastro e teste nossas funcionalidades!
 
+![20201129_212813](https://user-images.githubusercontent.com/71477357/100562662-1cd56980-329b-11eb-9261-69eed0d891cb.gif)
+
 Utilize nosso cupom TESTE200 para um desconto de R$200,00 na compra para que você possa testar nossa loja.
