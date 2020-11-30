@@ -48,13 +48,13 @@ Dentre os conteúdos, deverão conter:
 Abaixo temos uma imagem ilustrando como serão feitas as nossas entregas:
 ![Sprint Card](https://user-images.githubusercontent.com/71477357/96354740-4900a680-10b0-11eb-97d2-b3a630d28dd1.jpeg)
 
-[x] Entrega 1 - Sprint 0 (07/09/2020 a 27/09/2020) ([Link da pasta](https://github.com/Lkduarte/EGY-Conteudos-Didaticos/tree/master/SPRINT%200))
+- [x] Entrega 1 - Sprint 0 (07/09/2020 a 27/09/2020) ([Link da pasta](https://github.com/Lkduarte/EGY-Conteudos-Didaticos/tree/master/SPRINT%200))
 
-[x] Entrega 2 - Sprint 1 (28/09/2020 a 17/10/2020) ([Link da pasta](https://github.com/Lkduarte/EGY-Conteudos-Didaticos/tree/master/SPRINT%201))
+- [x] Entrega 2 - Sprint 1 (28/09/2020 a 17/10/2020) ([Link da pasta](https://github.com/Lkduarte/EGY-Conteudos-Didaticos/tree/master/SPRINT%201))
 
-[x] Entrega 3 - Sprint 2 (19/10/2020 a 08/11/2020) ([Link da pasta]())
+- [x] Entrega 3 - Sprint 2 (19/10/2020 a 08/11/2020) ([Link da pasta]())
 
-[x] Entrega 4 - Sprint 3 (09/11/2020 a 29/11/2020) ([Link da pasta]())
+- [x] Entrega 4 - Sprint 3 (09/11/2020 a 29/11/2020) ([Link da pasta]())
 
 ## Plano de Negócios
 
