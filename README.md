@@ -41,6 +41,7 @@ Dentre os conteúdos, deverão conter:
 
 ## Tecnologias Utilizadas
 
+* WordPress
 * Banco de dados: MariaDB
 * Back-End: JavaScript e PHP
 * Front-End: HTML e CSS
