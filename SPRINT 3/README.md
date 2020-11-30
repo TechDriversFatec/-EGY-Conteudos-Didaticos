@@ -8,7 +8,7 @@ Tivemos diversos problemas durante o desenvolvimento do projeto, mas conseguimos
 Estamos utilizando uma hospedagem gratuita para que se possa ter uma melhor vizualização do site.
 
 Você pode vizualizar o funcionamento do site pelo link:
-* ![Link do site](http://egyconteudosdidaticos.epizy.com/wp)
+* [Link do site](http://egyconteudosdidaticos.epizy.com/wp)
 
 Faça seu cadastro e teste nossas funcionalidades!
 
