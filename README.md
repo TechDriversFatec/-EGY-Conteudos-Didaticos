@@ -61,6 +61,11 @@ Abaixo temos uma imagem ilustrando como serão feitas as nossas entregas:
 
 - [x] Entrega 4 - Sprint 3 (09/11/2020 a 29/11/2020) ([Link da pasta](https://github.com/Lkduarte/EGY-Conteudos-Didaticos/tree/master/SPRINT%203))
 
+## Apresentação
+
+Neste link temos o nosso Vídeo de Apresentação Final para a feira de soluções.
+* ([Vídeo Final](https://www.youtube.com/watch?v=_XhEydFBsfw&t=104s)
+
 ## Plano de Negócios
 
 O Plano de Negócio descreve os objetivos do nosso negócio e quais os passos que devem ser dados para que esses objetivos sejam alcançados, diminuindo os riscos e as incertezas para o empreendedor, empresa ou investidores.
@@ -77,6 +82,9 @@ Aqui está um documento constando o Investimento e nossa projeção de Lucro do 
 
 ![Investimento Egy](https://user-images.githubusercontent.com/71477357/96354817-4c486200-10b1-11eb-864d-83b09288b8ba.jpeg)
 
+## Backlog do Produto
 
+Aqui temos o backlog do produto para que se possa visualizar como foi o decorrer do projeto.
 
+![Backlog](https://user-images.githubusercontent.com/71477357/102002449-58305900-3cdb-11eb-83e7-3621a02cc1d5.png)
 
