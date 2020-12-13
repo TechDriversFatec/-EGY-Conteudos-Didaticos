@@ -4,6 +4,6 @@ Nessa entrega, como pode ver no nosso Burndown abaixo, por conta de vários prob
 
 Continuamos com o desenvolvimento do projeto para que seja possível a conclusão da proxima entrega.
 
-## Burndown
+## 📉 Burndown Chart
 
 ![Burndown Sprint 2](https://user-images.githubusercontent.com/71477357/102002485-c248fe00-3cdb-11eb-88a4-6c5cef541be2.jpg)

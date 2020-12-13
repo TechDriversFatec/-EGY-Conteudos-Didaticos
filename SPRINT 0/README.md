@@ -13,7 +13,7 @@ Nessa entrega nossa equipe desenvolveu um protótipo de como será a plataforma,
 
  ![Processo do Protótipo](https://user-images.githubusercontent.com/71477357/96354654-5cf7d880-10af-11eb-9ba7-9097c12ddb0f.jpeg)
 
- ## Burndown
+ ## 📉 Burndown Chart
 
  ![Burndown Sprint 0](https://user-images.githubusercontent.com/71477357/102002469-97f74080-3cdb-11eb-85f5-865723545ab0.jpg)
 

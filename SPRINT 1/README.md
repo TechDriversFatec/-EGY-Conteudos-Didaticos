@@ -13,6 +13,6 @@ Nessa entrega nossa equipe alinhou as necessidades com o cliente para o projeto 
 
 Também adicionamos alguns conteúdos em vídeos para que possam experienciar como será nosso conteúdo.
 
-## Burndown
+## 📉 Burndown Chart
 
  ![Burndown Sprint 1](https://user-images.githubusercontent.com/71477357/102002481-b0fff180-3cdb-11eb-85c5-8a0d0a1095b7.jpg)

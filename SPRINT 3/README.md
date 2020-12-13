@@ -25,6 +25,6 @@ Após a compra, vá para a aba Downloads e faça o Download do arquivo .PDF.
 
 ![ADM](https://user-images.githubusercontent.com/71767580/100567244-cc640900-32a6-11eb-9fa9-703cf2c0119d.gif)
 
-## Burndown
+## 📉 Burndown Chart
 
 ![Burndown Sprint 3](https://user-images.githubusercontent.com/71477357/102002519-0dfba780-3cdc-11eb-8778-2bbb1fcaa6c1.jpg)
