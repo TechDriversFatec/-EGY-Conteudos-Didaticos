@@ -64,7 +64,7 @@ Abaixo temos uma imagem ilustrando como serão feitas as nossas entregas:
 ## Apresentação
 
 Neste link temos o nosso Vídeo de Apresentação Final para a feira de soluções.
-* ([Vídeo Final](https://www.youtube.com/watch?v=_XhEydFBsfw&t=104s)
+* [Vídeo Final](https://www.youtube.com/watch?v=_XhEydFBsfw&t=104s)
 
 ## Plano de Negócios
 
